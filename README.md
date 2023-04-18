@@ -1,6 +1,4 @@
-# CONPES-3920
-
-¡Colombia es el primer país en Latinoamérica con una política pública para la explotación de datos Big Data.!
+# Documento CONPES 3920 | POLÍTICA NACIONAL DE EXPLOTACIÓN DE DATOS
 
 ## ¿Qué es un documento CONPES en Colombia?
 
@@ -9,6 +7,19 @@ El CONPES es el Consejo Nacional de Política Económica y Social, el cual cumpl
 Los documentos CONPES son una herramienta fundamental para la formulación e implementación de políticas públicas en Colombia. Estos documentos reflejan las decisiones aprobadas por el Consejo Nacional de Política Económica y Social y establecen una serie de acciones específicas para alcanzar los objetivos propuestos. La elaboración de estos documentos implica un trabajo coordinado y concertado entre diversas entidades e instituciones del Gobierno Nacional, con el fin de garantizar la coherencia y eficacia de las políticas.
 
 Como máxima entidad encargada de la planeación nacional, el Departamento Nacional de Planeación (DNP) funge como Secretaría Técnica del CONPES y lidera la elaboración y seguimiento de los documentos CONPES. El DNP es responsable de presentar estos documentos al Consejo para su aprobación y posterior implementación. En definitiva, los documentos CONPES son una herramienta clave para el desarrollo económico y social de Colombia y su correcta implementación es vital para alcanzar los objetivos de desarrollo establecidos en la agenda nacional.
+
+El Departamento Nacional de Planeación (DNP) ha desarrollado un aplicativo web que funciona como una herramienta útil para la gestión de los documentos CONPES. Este aplicativo permite una gestión más eficiente y efectiva de los documentos CONPES, [SISCONPES](https://sisconpes.dnp.gov.co/SisCONPESWeb/) es el nombre de dicho aplicativo y permite:
+
+- Consultar el nivel de avance de los documentos CONPES en seguimiento.
+- Consultar cálculos de avance por sector.
+- Reportar y validar la información del avance de cada una de las acciones de los documentos CONPES que las entidades tienen a su cargo.
+- Administrar los usuarios de las entidades que participan en el seguimiento de los documentos CONPES .
+
+El nivel de estado de los documentos, los podemos ver como:
+
+- En elaboración: Aquí encontrará algunos documentos que están en elaboración. Son versiones en borrador de los documentos que serán eventualmente presentados a consideración del CONPES . Su contenido no es definitivo hasta tanto no haya sido aprobado por el CONPES, una vez cursado el debido proceso. Por lo tanto, su contenido no compromete al Gobierno nacional con la implementación de las acciones e inversiones aquí presentadas.
+
+- Aprobados: Aquí encontrará un listado cronológico por años de documentos CONPES aprobados por el Consejo Nacional de Política Económica y Social (CONPES). Adicionalmente, se encuentra como anexo el Plan de Acción y Seguimiento (PAS) disponible de los documentos CONPES a partir de agosto de 2012.
 
 ## Colombia: Primer país en Latinoamérica con una política pública para la explotación de datos Big Data
 
