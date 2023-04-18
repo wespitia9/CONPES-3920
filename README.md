@@ -37,6 +37,6 @@ En resumen, la explotación de datos (Big Data) puede ser una herramienta valios
 
 ## Fuentes:
 
-- [Departamento Nacional de Planeación](https://bit.ly/3zgNqDt)
+- [Departamento Nacional de Planeación](https://www.dnp.gov.co/)
 - [Ministerio de Ambiente y Desarrollo Sostenible](https://bit.ly/3TRjMhT)
 - [Ley 1581 de 2012](https://bit.ly/3KlPEIo)
